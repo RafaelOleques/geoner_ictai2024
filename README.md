@@ -36,13 +36,12 @@ The available models are defined in the `main.py` file. To train new models, upd
 Please cite the dataset and repository using the following BibTeX entry:
 
 ```bibtex
-@inproceedings{YourCitationHere,
-  title={NOME DO PAPER},
-  author={Your Authors Here},
-  booktitle={Proceedings of the 2024 IEEE International Conference on Tools with Artificial Intelligence (ICTAI)},
-  year={2024},
-  pages={},
-  doi={},
-  url={LINK},
+@inproceedings{nunes2024geoner,
+  author = {Nunes, Rafael and Spritzer, Andre and Balreira, Dennis and Freitas, Carla and Carbonera, Joel},
+  year = {2024},
+  pages = {},
+  title = {An Evaluation of Large Language Models for Geological Named Entity Recognition}
+  url={https://www.researchgate.net/publication/383822506_An_Evaluation_of_Large_Language_Models_for_Geological_Named_Entity_Recognition},
 }
+
 ```
