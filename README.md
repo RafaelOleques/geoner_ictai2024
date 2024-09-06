@@ -27,7 +27,7 @@ The available models are defined in the `main.py` file. To train new models, upd
 
 **Additional Resources**
 
-- The updated GeoCorpus-3 dataset is described in the paper **"An Evaluation of Large Language Models for Geological Named Entity Recognition"**, which will be presented at the ICTAI 2024 conference. The preprint of the paper is available [here](#).
+- The updated GeoCorpus-3 dataset is described in the paper **"An Evaluation of Large Language Models for Geological Named Entity Recognition"**, which will be presented at the ICTAI 2024 conference. The preprint of the paper is available [here](https://www.researchgate.net/publication/383822506_An_Evaluation_of_Large_Language_Models_for_Geological_Named_Entity_Recognition).
 - The original GeoCorpus-3 dataset is detailed in [GeoCorpus-3](https://github.com/Petroles/Petrovec/tree/master/GeoCorpus%20V3) and the corresponding article can be found [here](https://www.sciencedirect.com/science/article/pii/S0166361520305819).
 - For more details on the Hugging Face dataset, visit the [Hugging Face page](https://huggingface.co/datasets/ronunes/GeoCorpus-3v2).
 
