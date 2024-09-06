@@ -1,0 +1,185 @@
+[
+    {
+        "labels": "O"
+    },
+    {
+        "labels": "B-magmaticas"
+    },
+    {
+        "labels": "I-magmaticas"
+    },
+    {
+        "labels": "B-idade"
+    },
+    {
+        "labels": "I-idade"
+    },
+    {
+        "labels": "B-geomorfologia"
+    },
+    {
+        "labels": "I-geomorfologia"
+    },
+    {
+        "labels": "B-planctonico"
+    },
+    {
+        "labels": "I-planctonico"
+    },
+    {
+        "labels": "B-unidadeEstratigrafica"
+    },
+    {
+        "labels": "I-unidadeEstratigrafica"
+    },
+    {
+        "labels": "B-sistemaPetrolifero"
+    },
+    {
+        "labels": "I-sistemaPetrolifero"
+    },
+    {
+        "labels": "B-baciaSedimentar"
+    },
+    {
+        "labels": "I-baciaSedimentar"
+    },
+    {
+        "labels": "B-sedimentaresQuimicas"
+    },
+    {
+        "labels": "I-sedimentaresQuimicas"
+    },
+    {
+        "labels": "B-procedimentoMetodologico"
+    },
+    {
+        "labels": "I-procedimentoMetodologico"
+    },
+    {
+        "labels": "B-bentonico"
+    },
+    {
+        "labels": "I-bentonico"
+    },
+    {
+        "labels": "B-eon"
+    },
+    {
+        "labels": "I-eon"
+    },
+    {
+        "labels": "B-granulometria"
+    },
+    {
+        "labels": "I-granulometria"
+    },
+    {
+        "labels": "B-estruturaSedimentar"
+    },
+    {
+        "labels": "I-estruturaSedimentar"
+    },
+    {
+        "labels": "B-sedimentaresCarbonaticas"
+    },
+    {
+        "labels": "I-sedimentaresCarbonaticas"
+    },
+    {
+        "labels": "B-contextoGeologicoDeBacia"
+    },
+    {
+        "labels": "I-contextoGeologicoDeBacia"
+    },
+    {
+        "labels": "B-fosseis"
+    },
+    {
+        "labels": "I-fosseis"
+    },
+    {
+        "labels": "B-campoPetrolifero"
+    },
+    {
+        "labels": "I-campoPetrolifero"
+    },
+    {
+        "labels": "B-epoca"
+    },
+    {
+        "labels": "I-epoca"
+    },
+    {
+        "labels": "B-constituinteRochaSedimentar"
+    },
+    {
+        "labels": "I-constituinteRochaSedimentar"
+    },
+    {
+        "labels": "B-era"
+    },
+    {
+        "labels": "I-era"
+    },
+    {
+        "labels": "B-ambienteSedimentacao"
+    },
+    {
+        "labels": "I-ambienteSedimentacao"
+    },
+    {
+        "labels": "B-sedimentaresSiliciclasticas"
+    },
+    {
+        "labels": "I-sedimentaresSiliciclasticas"
+    },
+    {
+        "labels": "B-estratigrafia"
+    },
+    {
+        "labels": "I-estratigrafia"
+    },
+    {
+        "labels": "B-metamorficas"
+    },
+    {
+        "labels": "I-metamorficas"
+    },
+    {
+        "labels": "B-periodo"
+    },
+    {
+        "labels": "I-periodo"
+    },
+    {
+        "labels": "B-elementoQuimico"
+    },
+    {
+        "labels": "I-elementoQuimico"
+    },
+    {
+        "labels": "B-unidadeGeotectonica"
+    },
+    {
+        "labels": "I-unidadeGeotectonica"
+    },
+    {
+        "labels": "B-estruturaGeologica"
+    },
+    {
+        "labels": "I-estruturaGeologica"
+    },
+    {
+        "labels": "B-mineral"
+    },
+    {
+        "labels": "I-mineral"
+    },
+    {
+        "labels": "B-sedimentaresOrganicas"
+    },
+    {
+        "labels": "I-sedimentaresOrganicas"
+    }
+]
